@@ -1,0 +1,57 @@
+{
+  "CheckForUpdates": true,
+  "HideToTray": true,
+  "Accounts": [
+    {
+      "Details": {
+        "Username": "",
+        "Password": "",
+        "LoginKey": ""
+      },
+      "ShowOnlineStatus": true,
+      "ConnectToSteamCommunity": true,
+      "RestartGamesEveryThreeHours": true,
+      "JoinSteamGroup": true,
+      "IgnoreAccount": false,
+      "ChatResponse": "",
+      "Games": [
+        730,
+        10
+      ]
+    },
+    {
+      "Details": {
+        "Username": "",
+        "Password": "",
+        "LoginKey": ""
+      },
+      "ShowOnlineStatus": true,
+      "ConnectToSteamCommunity": true,
+      "RestartGamesEveryThreeHours": true,
+      "JoinSteamGroup": true,
+      "IgnoreAccount": false,
+      "ChatResponse": "",
+      "Games": [
+        730,
+        10
+      ]
+    },
+    {
+      "Details": {
+        "Username": "",
+        "Password": "",
+        "LoginKey": ""
+      },
+      "ShowOnlineStatus": true,
+      "ConnectToSteamCommunity": true,
+      "RestartGamesEveryThreeHours": true,
+      "JoinSteamGroup": true,
+      "IgnoreAccount": false,
+      "ChatResponse": "",
+      "Games": [
+        730,
+        10
+      ]
+    }
+  ]
+}

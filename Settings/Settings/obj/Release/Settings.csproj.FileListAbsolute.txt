@@ -1,0 +1,15 @@
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\bin\Release\Settings.exe.config
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\bin\Release\Settings.exe
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\bin\Release\Settings.pdb
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\bin\Release\Newtonsoft.Json.dll
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\bin\Release\Newtonsoft.Json.xml
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.csproj.AssemblyReference.cache
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.gameForm.resources
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.mainForm.resources
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.Properties.Resources.resources
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.csproj.GenerateResource.cache
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.csproj.CoreCompileInputs.cache
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.csproj.CopyComplete
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.exe
+C:\Users\rasasport\Desktop\HourBoostr-project\Settings\Settings\obj\Release\Settings.pdb
